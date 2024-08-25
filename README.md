@@ -50,7 +50,7 @@ The application features a command-line interface (CLI) that guides users throug
 Here are some screenshots demonstrating the key functionalities of **CalculatorApp**:
 
 1. **Home Screen**:
-   ![Home Screen](.assets/CalculatorUsing-Java Demo-images/CodingViewOfCalculator.png)
+   ![Home Screen](.assets/CalculatorUsing-Java_Demo-images/CodingViewOfCalculator.png)
 
 2. **Basic Calculations**:
    ![Basic Calculations](./.assets/basic_calculations.png)
