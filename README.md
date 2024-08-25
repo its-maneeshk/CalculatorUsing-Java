@@ -49,14 +49,14 @@ The application features a command-line interface (CLI) that guides users throug
 
 Here are some screenshots demonstrating the key functionalities of **CalculatorApp**:
 
-1. **Home Screen**:
-   ![Home Screen](.assets/CalculatorUsing-Java_Demo-images/CodingViewOfCalculator.png)
+1. **VS Code Project Stracture**:
+   ![Home Screen](https://github.com/its-maneeshk/.assets/blob/350976e7607e54c24cfc4ffde2b2c313a14b52af/CalculatorUsing-Java_Demo-images/CodingViewOfCalculator.png)
 
-2. **Basic Calculations**:
-   ![Basic Calculations](./.assets/basic_calculations.png)
+2. **CUI of Home**:
+   ![Basic Calculations](https://github.com/its-maneeshk/.assets/blob/350976e7607e54c24cfc4ffde2b2c313a14b52af/CalculatorUsing-Java_Demo-images/HomeOfCalculator.png)
 
-3. **Scientific Calculations**:
-   ![Scientific Calculations](./.assets/scientific_calculations.png)
+3. **Options avilable**:
+   ![Scientific Calculations](https://github.com/its-maneeshk/.assets/blob/350976e7607e54c24cfc4ffde2b2c313a14b52af/CalculatorUsing-Java_Demo-images/OptionsOfCalculator.png)
 
 ## Future Enhancements
 1. Advanced Scientific Calculations: Introduction of additional modules for kinematics, energy calculations, and other scientific operations.
